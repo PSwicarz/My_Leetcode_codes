@@ -1,9 +1,12 @@
 # My_Leetcode_codes
 
+
+
 ## What it is all about?
 LeetCode.com is a competitive programming site/forum/learning hub for those who want to improve their coding skills.
 
 In this repository, I will be sharing solutions that I came up with during Leetcode programming competitions or during regular practice.
+
 
 
 ## Form of the repository
@@ -14,6 +17,7 @@ Each file will conatin:
   - commented code solution written in Python
 
 Some solutions will also have written intuition, explanation and complexity analysis ( Big O )
+Files dont havet to be complete at the begining. Over time, they will improve both in scope and quality.
 
 
 ## -- important -- 
