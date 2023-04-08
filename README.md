@@ -1,7 +1,6 @@
 # My_Leetcode_codes
 
 
-
 ## What it is all about?
 LeetCode.com is a competitive programming site/forum/learning hub for those who want to improve their coding skills.
 
