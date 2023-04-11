@@ -17,6 +17,7 @@ Each file will conatin:
 
 Some solutions will also have written intuition, explanation and complexity analysis ( Big O )
 Files dont havet to be complete at the begining. Over time, they will improve both in scope and quality.
+Sometimes I will add only code, without description, as a placeholder for more detailed explanation in future.
 
 
 ## -- important -- 
