@@ -21,4 +21,4 @@ Sometimes I will add only code, without description, as a placeholder for more d
 
 
 ## -- important -- 
-The code provided in the solution is appropriate to use on a specific question on LeetCode.com, but it cannot be used on its own
+The code provided in the solution is appropriate to use on a specific question on LeetCode.com.
