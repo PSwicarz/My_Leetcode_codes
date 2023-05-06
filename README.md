@@ -20,5 +20,5 @@ Files dont havet to be complete at the begining. Over time, they will improve bo
 Sometimes I will add only code, without description, as a placeholder for more detailed explanation in future.
 
 
-## -- important -- 
+## --  important  -- 
 The code provided in the solution is appropriate to use on a specific question on LeetCode.com.
